@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "335706923504",
+    "project_id": "notetaskyuas",
+    "storage_bucket": "notetaskyuas.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:335706923504:android:5806e02faab58f30357d35",
+        "android_client_info": {
+          "package_name": "com.example.note_tasky_ver2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyASJAmzSlAfuXDnCaUbDv7I7aBzYOv5pqg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
